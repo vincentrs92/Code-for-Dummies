@@ -3,7 +3,7 @@
 
 int main(){  //déclaration de la fonction main
     int i,f; //déclaration des variables i et f sont des entiers    
-    int resl; //déclaration de la variable resl
+    
     
     i = 0; //initialisation de i par défaut 0
     f = 0; //initialisation de f
