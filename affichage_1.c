@@ -11,8 +11,8 @@ int main(){  //déclaration de la fonction main
     printf("L'affichage simple' :\n\n"); /* affichage du message et 2 sauts de lignes */
     printf("saisissez la première valeur: ");  /* instruction à l'utilisateur */
     scanf("%d", &i); 
-    //scan de la saisie qui doit être une valeur décimale puis 
-    //intitialisation de la valeur l'utilisateur à la variable i
+    //scan de la saisie qui doit être une valeur décimale et 
+    //intitialisation de la valeur de l'utilisateur à la variable i
     printf("\n"); /* saut de ligne */
     printf("saisissez la deuxième valeur: ");
     scanf("%d", &f);
